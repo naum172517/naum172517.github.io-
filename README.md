@@ -10,7 +10,7 @@
 <div>Анастасия Наумкина</div> 
 </div> 
 <div class="content"> 
-Живу в общежитии номер 10 
+Живу в общежитии номер 10 и очень люблю цифровую грамотность ( нет)
 <div class= "img_r"> 
 <img src="R6ZdVINA-zw.jpg"> 
 </div> 
@@ -22,7 +22,7 @@
 </ul> 
 </div> 
 <div class="footer"> 
-<p><a href = "https://vk.com/id66327427">&copy; 2017 — Naumkina Web Production</a></p> 
+<p><a href = "https://vk.com/supernaum">&copy; 2017 — Naumkina Web Production</a></p> 
 </div> 
 </body> 
 </html>
